@@ -26,6 +26,7 @@
 
 - 🔗 [**Turhake discord bot**](https://turhake.org)
 - 🔗 [**CS2 autoexec.cfg Generator**](https://mobbi.dev/cs2-autoexec-generator)
+- 🔗 [**Faceit Account Finder**](https://mobbi.dev/faceit-finder)
 
 ---
 
