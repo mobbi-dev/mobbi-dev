@@ -41,6 +41,10 @@
   🔗 <a href="https://mobbi.dev" target="_blank"><strong>Visit my website</strong></a>
 </p>
 
+<p align="center">
+ 🔗 <a hreF="https://lainat.pro/lainavertailu">Lainat.pro - Lainavertailu</a>
+</p>
+
 ---
 
 <p align="center">
