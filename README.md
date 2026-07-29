@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">
+<div align="center">
   I'm developer who loves building things quietly but passionately.  
   Welcome to my little corner of GitHub!
-</p>
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -18,9 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS/Sass"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" alt="Ruby"/>
-</p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mobbi-dev&label=Profile%20views&color=1d032f&style=flat" alt="mobbi-dev" /></p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mobbi-dev&label=Profile%20views&color=1d032f&style=flat" alt="mobbi-dev" />
+</div>
 
 ---
 
@@ -40,12 +43,12 @@
 
 ---
 
-<p align="center">
+<div align="center">
   🔗 <a href="https://mobbi.dev" target="_blank"><strong>Visit my website</strong></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   “There is no place like 127.0.0.1.”
-</p>
+</div>
