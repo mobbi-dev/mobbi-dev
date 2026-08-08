@@ -1,8 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-  I'm developer who loves building things quietly but passionately.  
-  Welcome to my little corner of GitHub!
+  <p style="margin-bottom: 1rem;">I'm a developer who loves building things quietly but passionately.<br>
+  Welcome to my little corner of GitHub!</p>
+
+  <a href="https://ko-fi.com/C0C51GLQOX">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  </a>
 </div>
 
 ---
